@@ -1,0 +1,5 @@
+var harryPotterFan = true;
+	if 
+		(harryPotterFan = true) {console.log('Mischief managed');} 	
+	else 
+		{console.log('I lead a muggle\'s life.');}
